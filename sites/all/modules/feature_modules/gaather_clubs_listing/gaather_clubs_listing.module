@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Gaather Clubs Listing feature.
+ */
+
+include_once 'gaather_clubs_listing.features.inc';
